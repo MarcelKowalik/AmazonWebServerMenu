@@ -1,7 +1,6 @@
 # AWS Instance Manager
 
 ## Name: Marcel Kowalik
-## Student Number: 20076466
 
 #### What is an AWS Instance Manager?
 This program was created to manage basic AWS EC2 instances task using Python/Boto3.
